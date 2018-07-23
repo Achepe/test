@@ -3,3 +3,6 @@ class Hello {
       System.out.println("HelloWorld");  
   }
 }
+class Hello2 {
+
+}
